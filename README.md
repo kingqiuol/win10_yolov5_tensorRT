@@ -162,7 +162,7 @@ if (true) {
 不包括第一次加载模型的时间，在我自己的笔记本GeForce MX250上进行一次推理大概耗时30ms左右。
 
 
-
+参考链接：[win10下在vs2015上进行yolov5 TensorRT加速实践](https://blog.csdn.net/wxplol/article/details/111466155)
 
 
 
