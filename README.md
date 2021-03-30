@@ -1,7 +1,4 @@
-﻿[toc]
-
-***
-# 1、安装环境
+﻿# 1、安装环境
 
 * **CUDA10.2**
 * **TensorRT7.2**
@@ -163,8 +160,6 @@ if (true) {
 
 
 不包括第一次加载模型的时间，在我自己的笔记本GeForce MX250上进行一次推理大概耗时30ms左右。
-
-我的工程链接：链接：[https://pan.baidu.com/s/1SkJUrSOWQf6v8WkubFIA-Q](https://pan.baidu.com/s/1SkJUrSOWQf6v8WkubFIA-Q) 提取码：v37i
 
 
 
